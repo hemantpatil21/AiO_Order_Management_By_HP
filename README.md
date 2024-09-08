@@ -20,6 +20,8 @@
 PayOff
 ![08-09-2024_payoff1_graph_Nifty 50](https://github.com/user-attachments/assets/acb0c08d-0ed6-4829-b3d7-dd32a0fc2b45)
 
+Telegram Group
+https://t.me/AiO_Order_Management_By_HP
 
 DM for access...
 https://t.me/hp_matrix
