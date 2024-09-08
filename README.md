@@ -17,9 +17,12 @@
 
 ![AIO_HP_mk](https://github.com/user-attachments/assets/7ce623c5-a095-432e-a26c-899d50fd4a23)
 
+PayOff
 ![08-09-2024_payoff1_graph_Nifty 50](https://github.com/user-attachments/assets/acb0c08d-0ed6-4829-b3d7-dd32a0fc2b45)
 
 
+DM for access...
+https://t.me/hp_matrix
 
 Disclaimer:
 
