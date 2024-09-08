@@ -1,7 +1,5 @@
 # AiO_Order_Management_By_HP 
 
-file download from telegram group
-
 1) Multiple Order Excute in Sec (limit or market with protaction)
 2) Basket Order Future
 3) Index Base SL & Target
@@ -11,7 +9,7 @@ file download from telegram group
 7) Level Base exit
 8) Exit CE or PE Side Multiple Order in Singal button
 9) Show Greek as required
-10) Showing avrAge sell - CE & PE for Order Balancing
+10) Showing average sell - CE & PE for Order Balancing
 11) Time Base Exit 
 12) Moving/Shift Position in Singal Click Base on Selection (1 to 10 stirk)
 
@@ -21,6 +19,9 @@ file download from telegram group
 PayOff
 ![08-09-2024_payoff1_graph_Nifty 50](https://github.com/user-attachments/assets/acb0c08d-0ed6-4829-b3d7-dd32a0fc2b45)
 
+
+
+file download from telegram group
 Telegram Group
 https://t.me/AiO_Order_Management_By_HP
 
