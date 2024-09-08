@@ -1,5 +1,6 @@
 # AiO_Order_Management_By_HP
 
+
 1) Multiple Order Excute in Sec (limit or market with protaction)
 2) Basket Order Future
 3) Index Base SL & Target
@@ -12,6 +13,9 @@
 10) Showing avrAge sell - CE & PE for Order Balancing
 11) Time Base Exit 
 12) Moving/Shift Position in Singal Click Base on Selection (1 to 10 stirk)
+
+
+
 
 
 
