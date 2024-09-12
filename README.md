@@ -26,8 +26,6 @@ file download from Telegram Group
 Telegram Group
 https://t.me/AiO_Order_Management_By_HP
 
-DM for access...
-https://t.me/hp_matrix
 
 Disclaimer:
 
